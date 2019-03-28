@@ -1,0 +1,15 @@
+body {font-family: Roboto;font-size: 12px;}
+
+.sidebar-nav {margin-top: 20px;padding: 0;list-style: none;}
+
+.btn {font-size: 12px;line-height: 18px;border-radius: 3px;}
+.table td, 
+.table th {vertical-align: middle;}
+
+.cardcounters .card .card-title {text-align: center;font-size: 19px;}
+.cardcounters .card .card-title strong {display: block;}
+.cardcounters .card .card-header:first-child {text-align: center;}
+.cardcounters .card .card-header:first-child img {width:64px;}
+.cardcounters .card .card-text:last-child {line-height: 15px;}
+
+footer.card-header {position: fixed;bottom: 0;width: 100%;font-size: 12px;font-family:'Roboto';color: #7d8c9b;background: #343a40;}
