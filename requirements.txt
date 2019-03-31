@@ -30,7 +30,7 @@ pandocfilters==1.4.2
 pickleshare==0.7.5
 prometheus-client==0.5.0
 prompt-toolkit==1.0.15
-psycopg2==2.6.2
+psycopg2==2.7.1
 Pygments==2.3.0
 pylint==2.2.2
 python-dateutil==2.7.5
