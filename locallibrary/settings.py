@@ -28,7 +28,10 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '!(+zd#32jn6^mrirki!fb@50(4=3wz
 # DEBUG = False
 DEBUG = bool( os.environ.get('DJANGO_DEBUG', True) )
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'boiling-wave-98828.herokuapp.com',
+    '127.0.0.1',
+]
 
 
 # Application definition
